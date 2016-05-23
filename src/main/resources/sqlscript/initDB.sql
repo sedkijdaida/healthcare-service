@@ -1,0 +1,12 @@
+--
+-- Structure de la table `bloc`
+--
+
+--CREATE TABLE IF NOT EXISTS `bloc` (
+--  `id` bigint(20) NOT NULL AUTO_INCREMENT,
+--  `name` varchar(255) DEFAULT NULL,
+--  `type` varchar(255) DEFAULT NULL,
+--  `service_id` bigint(20) DEFAULT NULL,
+--  PRIMARY KEY (`id`),
+--  KEY `FK_8mi55wdugpw5pmpakdkcw985l` (`service_id`)
+--) ENGINE=InnoDB  DEFAULT CHARSET=utf8 AUTO_INCREMENT=6 ;

@@ -1,0 +1,8 @@
+--
+-- Contenu de la table `healthcaretype`
+--
+--
+-- INSERT INTO `healthcaretype` (`id`, `name`) VALUES
+-- (1, 'Cardiologie'),
+-- (2, 'Gastrique'),
+-- (3, 'Pneumogastrique');
